@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=counter()
+comment2.params=hitung
+comment2.target=void\ Counting(int)
+comment3.params=
+comment3.target=void\ gameOver()
+numComments=4
